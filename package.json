@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A simple Vue.js directive to map BEM CSS class names.",
   "type": "module",
-  "main": "dist/vue-simple-bem.js",
+  "main": "dist/vue-simple-bem.umd.js",
   "module": "dist/vue-simple-bem.es.js",
   "files": [
     "dist"
