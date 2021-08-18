@@ -17,6 +17,6 @@
       "lib": ["dom", "es2020"]
     },
     "exclude": ["./**/*.spec.ts", "node_modules"],
-    "files": ["./global.d.ts","./src/bem.ts"],
+    "files": ["./global.d.ts","./index.ts"],
   }
   
