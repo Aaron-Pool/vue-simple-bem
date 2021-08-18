@@ -8,7 +8,7 @@
   "files": [
     "dist"
   ],
-  "types": "dist/vue-simple-bem.d.ts",
+  "types": "dist/src/bem.d.ts",
   "repository": "https://github.com/mlturner88/vue-simple-bem.git",
   "author": "Matthew Turner <mlturner88@outlook.com>",
   "license": "MIT",
