@@ -1,0 +1,22 @@
+{
+    "compilerOptions": {
+      "rootDir": ".",
+      "outDir": "./dist",
+      "declaration": true,
+      "declarationDir": "./dist",
+      "skipLibCheck": true,
+      "strict": true,
+      "noImplicitAny": true,
+      "module": "esnext",
+      "moduleResolution": "node",
+      "allowSyntheticDefaultImports": true,
+      "target": "es5",
+      "jsx": "react",
+      "sourceMap": true,
+      "esModuleInterop": true,
+      "lib": ["dom", "es2020"]
+    },
+    "exclude": ["./**/*.spec.ts", "node_modules"],
+    "files": ["./global.d.ts","./src/bem.ts"],
+  }
+  

@@ -62,5 +62,4 @@ typings/
 .next
 
 # rollup output
-dist
 .rpt2_cache
